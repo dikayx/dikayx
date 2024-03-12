@@ -34,14 +34,14 @@ I am an information security specialist with good knowledge of software developm
 
 ### Tools & Platforms
 
+<!-- Development -->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+
 <!-- Security -->
 <img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" />
 <img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" />
-<img align="left" alt="Burp Suite" width="26px" src="https://static.macupdate.com/products/38118/l/burp-suite-logo.png?v=1675964605" />
-
-<!-- Development -->
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Burp Suite" width="26px" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=256&q=75" />
 
 <!-- Platforms -->
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
