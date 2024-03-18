@@ -40,7 +40,7 @@ I am an information security specialist with good knowledge of software developm
 
 <!-- Security -->
 <img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" />
-<img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" />
+<img align="left" alt="FOCA" width="26px" src="https://pbs.twimg.com/profile_images/1214435825632628737/dhhDt8jq_400x400.jpg" />
 <img align="left" alt="Burp Suite" width="26px" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=256&q=75" />
 
 <!-- Platforms -->
