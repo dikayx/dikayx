@@ -34,20 +34,19 @@ I am an information security specialist with good knowledge of software developm
 
 ### Tools & Platforms
 
-<!-- Development -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-
-<!-- Security -->
-<img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" />
-<img align="left" alt="FOCA" width="26px" src="https://pbs.twimg.com/profile_images/1214435825632628737/dhhDt8jq_400x400.jpg" />
-<img align="left" alt="Burp Suite" width="26px" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=256&q=75" />
-
 <!-- Platforms -->
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" />
 
+<!-- Development -->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+
+<!-- Security -->
+<img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" />
+<img align="left" alt="FOCA" width="26px" src="https://pbs.twimg.com/profile_images/1214435825632628737/dhhDt8jq_400x400.jpg" />
 <br />
 
 ---
