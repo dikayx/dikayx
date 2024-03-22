@@ -35,9 +35,12 @@ I am an information security specialist with good knowledge of software developm
 ### Tools & Platforms
 
 <!-- Platforms -->
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
+
+<!-- Productivity -->
+<img align="left" alt="Office" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" />
 
 <!-- Development -->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
@@ -46,7 +49,4 @@ I am an information security specialist with good knowledge of software developm
 
 <!-- Security -->
 <img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" />
-<img align="left" alt="FOCA" width="26px" src="https://pbs.twimg.com/profile_images/1214435825632628737/dhhDt8jq_400x400.jpg" />
 <br />
-
----
