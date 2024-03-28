@@ -8,7 +8,7 @@ I am an information security specialist with good knowledge of software developm
 
 <p float="left">
   <img alt="Dan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=transparent" height=165px />
-  <img alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&hide_border=true&layout=compact&theme=transparent" height=165px />
+  <img alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&hide_border=true&layout=compact&theme=transparent&hide=java" height=165px />
 </p>
 
 ---
@@ -19,12 +19,12 @@ I am an information security specialist with good knowledge of software developm
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 
 <img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="SQL-Server" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" />
 
 <!-- Productivity -->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
