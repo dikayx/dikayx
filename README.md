@@ -18,7 +18,7 @@ I am an information security specialist with good knowledge of software developm
 <!-- Languages -->
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
@@ -46,7 +46,7 @@ I am an information security specialist with good knowledge of software developm
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
-<!-- Security -->
-<img align="left" alt="Maltego" width="26px" src="https://www.maltego.com/images/uploads/vector_logo_grey_small_edge_512_darker.png" />
+<!-- Cloud -->
+<img align="left" alt="Vercel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" />
 
 <br />
