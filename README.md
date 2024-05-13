@@ -1,52 +1,63 @@
-## Hi, I'm Dan 👋
+<h1 align='center'>
+  Hi, I'm Dan 👋
+</h1>
 
-I am an information security specialist with good knowledge of software development. I enjoy spending my time learning new things, working on side projects, and exploring my beautiful hometown.
-
----
-
-### Stats
-
-<p float="left">
-  <img alt="Dan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=transparent" height=165px />
-  <img alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&hide_border=true&layout=compact&theme=transparent" height=165px />
+<p align='center'>
+  Information security specialist and developer.
 </p>
 
----
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&theme=github_dark" width="350"></a>
+</p>
 
-### Programming
+<p align='center'>
+    💻<br/><br/>
+    <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/(my)sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+</p>
 
-<!-- Languages -->
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+<!-- Overview -->
+<details>
 
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-<img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" />
-<img align="left" alt="SQL-Server" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" />
+## Overview
 
-<!-- Productivity -->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<br />
+<p align="center">I work in the field of information security since 2020 and mainly focus on the following areas:</p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/ISMS-000000?logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Incident%20Response-000000?logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Awareness-000000?logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-000000?logo=security&logoColor=white" />
 
-### Tools & Platforms
+</p>
 
-<!-- Platforms -->
-<img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apple/apple.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<!-- Resume about work -->
+<summary>📃 Resume</summary>
 
-<!-- Productivity -->
-<img align="left" alt="Office" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png" />
+| Name                                                                  | A short summary                                                                                                                                                        | Examples                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ISMS](https://en.wikipedia.org/wiki/Information_security_management) | An Information Security Management System is the collection of policies and procedures used to manage all aspects of an organization's information security processes. | [ISO 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001), [NIST SP 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf), [BSI IT-Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html) |
+| [Incident Response](https://en.wikipedia.org/wiki/Incident_response)  | The process of responding to any kind of security incident in a timely manner to limit or prevent damage.                                                              | Data breaches, malware infections, etc.                                                                                                                                                                                                                                                                             |
+| [Awareness](https://en.wikipedia.org/wiki/Security_awareness)         | The process of educating members of an organization regarding the protection of physical or digital information assets.                                                | (Spear-)Phishing, social engineering, etc.                                                                                                                                                                                                                                                                          |
+| [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)       | The collection and analysis of information that is gathered from public or open sources.                                                                               | [Shodan](https://www.shodan.io/), [Censys](https://censys.io/), [Google Dorks](https://www.exploit-db.com/google-hacking-database), [Maltego](https://www.maltego.com/), etc.                                                                                                                                       |
 
-<!-- Development -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+</details>
 
-<!-- Cloud -->
-<img align="left" alt="Vercel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" />
+<!-- Projects -->
+<details>
+  <summary>🔨 Projects</summary>
+  
+  <p align="center">You can find a selection of programming related projects I have worked on below:</p>
 
-<br />
+| Name                                                         | A short summary                                                         | Stars                                                                              | Technology                                                                          |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [NetScan](https://github.com/dan-koller/netscan)             | Port scanning tool for network analysis and security assessment.        | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/netscan)       | ![.NET](https://img.shields.io/badge/8.0-512BD4?logo=.net&logoColor=white)          |
+| [WinVPN](https://github.com/dan-koller/winvpn)               | VPN desktop application for Windows that uses the services of VPNBook.  | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/winvpn)        | ![.NET](https://img.shields.io/badge/8.0-512BD4?logo=.net&logoColor=white)          |
+| [SQLite Viewer](https://github.com/dan-koller/sqlite-viewer) | A simple cross-platform desktop app to query and edit SQLite databases. | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/sqlite-viewer) | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white) |
+
+</details>
