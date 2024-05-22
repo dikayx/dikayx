@@ -15,10 +15,11 @@
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/(my)sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
 </p>
 
 <!-- Overview -->
