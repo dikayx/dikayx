@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
@@ -56,6 +55,7 @@
 
 | Name                                                         | A short summary                                                         | Stars                                                                              | Technology                                                                          |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [ExifEx](https://github.com/dan-koller/exifex)               | A web app to extract and display EXIF data from images.                 | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/exifex)        | ![Python](https://img.shields.io/badge/3.10-3776AB?logo=python&logoColor=white)     |
 | [SQLite Viewer](https://github.com/dan-koller/sqlite-viewer) | A simple cross-platform desktop app to query and edit SQLite databases. | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/sqlite-viewer) | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white) |
 | [NetScan](https://github.com/dan-koller/netscan)             | Port scanning tool for network analysis and security assessment.        | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/netscan)       | ![.NET](https://img.shields.io/badge/8.0-512BD4?logo=.net&logoColor=white)          |
 | [WinVPN](https://github.com/dan-koller/winvpn)               | VPN desktop application for Windows that uses the services of VPNBook.  | ![GitHub Repo stars](https://img.shields.io/github/stars/dan-koller/winvpn)        | ![.NET](https://img.shields.io/badge/8.0-512BD4?logo=.net&logoColor=white)          |
