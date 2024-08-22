@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Security%20Analysis-000000?logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Incident%20Response-000000?logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Operational%20Security-000000?logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital%20Forensics-000000?logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Awareness%20Training-000000?logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Security%20Engineering-000000?logo=security&logoColor=white" />
 
 </p>
