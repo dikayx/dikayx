@@ -14,6 +14,7 @@
     💻<br/><br/>
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
@@ -41,11 +42,12 @@
   
   <p align="center">You can find a selection of programming related projects I have worked on below:</p>
 
-| Name                                                     | A short summary                                                         | Stars                                                                                     | Technology                                                                          |
-| -------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [CSVEditor](https://github.com/dikayx/csveditor)         | A lightweight, native macOS CSV editor for quick data manipulation.     | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/csveditor?style=flat)     | ![Swift](https://img.shields.io/badge/6.0-FA7343?logo=swift&logoColor=white)        |
-| [DiskAnalyzer](https://github.com/dikayx/diskanalyzer)   | A disk space analyzing tool for macOS.                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/diskanalyzer?style=flat)  | ![Swift](https://img.shields.io/badge/6.0-FA7343?logo=swift&logoColor=white)        |
-| [TaskManager](https://github.com/dikayx/taskmanager)     | A basic task management app for macOS.                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/taskmanager?style=flat)   | ![Swift](https://img.shields.io/badge/6.0-FA7343?logo=swift&logoColor=white)        |
-| [SQLite Viewer](https://github.com/dikayx/sqlite-viewer) | A simple cross-platform desktop app to query and edit SQLite databases. | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/sqlite-viewer?style=flat) | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white) |
+| Name                                                     | A short summary                                                                          | Stars                                                                                     | Technology                                                                          |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [CSVEditor](https://github.com/dikayx/csveditor)         | A lightweight, native macOS CSV editor for quick data manipulation.                      | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/csveditor?style=flat)     | ![Swift](https://img.shields.io/badge/6.0-FA7343?logo=swift&logoColor=white)        |
+| [DiskAnalyzer](https://github.com/dikayx/diskanalyzer)   | A disk space analyzing tool for macOS.                                                   | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/diskanalyzer?style=flat)  | ![Swift](https://img.shields.io/badge/6.0-FA7343?logo=swift&logoColor=white)        |
+| [ExifEx](https://github.com/dikayx/exifex)               | A web app to extract and display EXIF data from images.                                  | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/exifex?style=flat)        | ![Python](https://img.shields.io/badge/3.10-3776AB?logo=python&logoColor=white)     |
+| [MAPy](https://github.com/dikayx/mapy)                   | An email analysis tool to help you parse raw data and extract useful information from it | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/mapy?style=flat)          | ![Python](https://img.shields.io/badge/3.10-3776AB?logo=python&logoColor=white)     |
+| [SQLite Viewer](https://github.com/dikayx/sqlite-viewer) | A simple cross-platform desktop app to query and edit SQLite databases.                  | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/sqlite-viewer?style=flat) | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white) |
 
 </details>
