@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  System Administrator
+  System Administrator | Developer
 </p>
 
 <p align='center'>
@@ -12,9 +12,9 @@
 
 <p align='center'>
     💻<br/><br/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
@@ -47,6 +47,7 @@
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | [.dotfiles](https://github.com/dikayx/.dotfiles)           | MacOS dotfiles for a personalized development environment & automated post installation tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/.dotfiles?style=flat)      | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)               |
 | [winget-install](https://github.com/dikayx/winget-install) | A collection of scripts to install applications and automate setup on Windows.                 | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/winget-install?style=flat) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) |
+| [heic2jpeg](https://github.com/dikayx/heic2jpeg)   | A tool to convert HEIC images to JPEG format.                        | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/heic2jpeg?style=flat)  | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)           |
 | [SQLite Viewer](https://github.com/dikayx/sqlite-viewer)   | A simple cross-platform desktop app to query and edit SQLite databases.                        | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/sqlite-viewer?style=flat)  | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white)           |
 
 </details>
