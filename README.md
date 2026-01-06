@@ -6,19 +6,44 @@
   SysAdmin | Developer
 </p>
 
+<!-- Stats -->
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dikayx&show_icons=true&theme=swift&hide=contribs,prs" width="350"></a>
 </p> -->
 
+<!-- Light Mode -->
+<div align="center"> 
+  <a href="#gh-light-mode-only">
+    <img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Dan's Github stats (light)" />
+  </a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+  <a href="#gh-dark-mode-only">
+    <img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Dan's Github stats (dark)" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Stack -->
 <p align='center'>
     💻<br/><br/>
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-<!-- Overview -->
+<p align="center">
+  <a href="https://github.com/dikayx">
+    <img src="https://img.shields.io/github/followers/dikayx?label=Follow&style=social" />
+  </a>
+</p>
+
+<!-- Resume -->
 <details>
   <summary>📃 Resume</summary>
 
