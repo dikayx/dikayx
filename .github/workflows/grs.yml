@@ -17,7 +17,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats (light mode)
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&hide=contribs,prs&hide_border=true&hide_rank=true&theme=swift'
@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats (dark mode)
-        uses: readme-tools/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&hide=contribs,prs&hide_border=true&hide_rank=true&theme=tokyonight&bg_color=000000'
@@ -33,7 +33,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate top languages (light mode)
-      #   uses: readme-tools/github-readme-stats-action@v2
+      #   uses: stats-organization/github-readme-stats-action@v2
       #   with:
       #     card: top-langs
       #     options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=5&hide_border=true&role=owner,collaborator&theme=swift'
@@ -41,7 +41,7 @@ jobs:
       #     token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate top languages (dark mode)
-      #   uses: readme-tools/github-readme-stats-action@v2
+      #   uses: stats-organization/github-readme-stats-action@v2
       #   with:
       #     card: top-langs
       #     options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=5&hide_border=true&role=owner,collaborator&theme=tokyonight&bg_color=000000'
