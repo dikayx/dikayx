@@ -27,7 +27,7 @@
 <p align='center'>
     💻<br/><br/>
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=D34516" />
+    <!-- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=D34516" /> -->
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
@@ -70,7 +70,6 @@
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | [.dotfiles](https://github.com/dikayx/.dotfiles)           | MacOS dotfiles for a personalized development environment & automated post installation tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/.dotfiles?style=flat)      | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)               |
 | [winget-install](https://github.com/dikayx/winget-install) | A collection of scripts to install applications and automate setup on Windows.                 | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/winget-install?style=flat) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) |
-| [sshx](https://github.com/dikayx/sshx)                     | A custom ssh utility for macOS that improves terminal customization.| ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/sshx?style=flat)          | ![Rust](https://img.shields.io/badge/Rust-D34516?style=flat&logo=rust&logoColor=white)         |
 | [SQLite Viewer](https://github.com/dikayx/sqlite-viewer)   | A simple cross-platform desktop app to query and edit SQLite databases.                        | ![GitHub Repo stars](https://img.shields.io/github/stars/dikayx/sqlite-viewer?style=flat)  | ![Java](https://img.shields.io/badge/Java%2011-007396?logo=openjdk&logoColor=white)           |
 
 </details>
