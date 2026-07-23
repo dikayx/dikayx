@@ -22,7 +22,11 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&hide=contribs,prs&hide_border=true&hide_rank=true&theme=swift'
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # github-readme-stats reads stargazers across every repo, which a GitHub
+          # App installation token cannot access ("Resource not accessible by
+          # integration"). Use a PAT for stats generation; the App token is still
+          # used for committing/pushing and opening the PR below.
+          token: ${{ secrets.CARD_UPDATER_STATS_PAT }}
 
       - name: Generate stats (dark mode)
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +34,7 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&hide=contribs,prs&hide_border=true&hide_rank=true&theme=tokyonight&bg_color=000000'
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.CARD_UPDATER_STATS_PAT }}
 
       # - name: Generate top languages (light mode)
       #   uses: stats-organization/github-readme-stats-action@v2
@@ -38,7 +42,7 @@ jobs:
       #     card: top-langs
       #     options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=5&hide_border=true&role=owner,collaborator&theme=swift'
       #     path: profile/top-langs-light.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     token: ${{ secrets.CARD_UPDATER_STATS_PAT }}
 
       # - name: Generate top languages (dark mode)
       #   uses: stats-organization/github-readme-stats-action@v2
@@ -46,7 +50,7 @@ jobs:
       #     card: top-langs
       #     options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=5&hide_border=true&role=owner,collaborator&theme=tokyonight&bg_color=000000'
       #     path: profile/top-langs-dark.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     token: ${{ secrets.CARD_UPDATER_STATS_PAT }}
 
       - name: Commit cards
         run: |
