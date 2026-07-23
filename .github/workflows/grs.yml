@@ -26,6 +26,10 @@ jobs:
           # App installation token cannot access ("Resource not accessible by
           # integration"). Use a PAT for stats generation; the App token is still
           # used for committing/pushing and opening the PR below.
+          #
+          # Token needs to be reissued from time to time. See 
+          # https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets
+          # for more information on how to create a PAT and add it to your repository secrets.
           token: ${{ secrets.CARD_UPDATER_STATS_PAT }}
 
       - name: Generate stats (dark mode)
