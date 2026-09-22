@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  SysAdmin | Developer
+  SysAdmin
 </p>
 
 <!-- Stats -->
@@ -27,7 +27,6 @@
 <p align='center'>
     💻<br/><br/>
     <img src="https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=D34516" /> -->
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
